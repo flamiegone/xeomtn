@@ -1,0 +1,156 @@
+{
+    "schools":[
+        {
+            "id":1,
+            "name":"Đại học công nghệ thông tin",
+            "images" : [
+                {
+                    "url":"https://ictu.edu.vn/images/sl/3.jpg"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name":"Đại học khoa học",
+            "images" : [
+                {
+                    "url":"https://image1.phunuphapluat.vn/2018/11/01/chi-tieu-tuyen-sinh-truong-dai-hoc-khoa-hoc-dai-hoc-thai-nguyen-nam-2017-152058.jpg"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name":"Đại học kinh tế",
+            "images" : [
+                {
+                    "url":"http://tuyensinh.tueba.edu.vn/wp-content/uploads/photo-gallery/DH-KT&QTKD.jpg"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "name":"Đại học nông lâm",
+            "images" : [
+                {
+                    "url":"https://poipic4.coccoc.com/450x230/poi/previews/20121116/p1_135303474232053e9e7c3b2719fca7d992baa5950c3dfc.jpg"
+                }
+            ]
+        }
+    ],
+    "cacxeom":[
+        {
+            "id":1,
+            "images":[
+                {
+                    "url":"https://icdn.dantri.com.vn/thumb_w/640/2017/4-1498008984014.jpg"
+                }
+            ],
+            "name":"Đoàn Kiều Trinh",
+            "price": "6.000 VND/Km",
+            "phone":"0965612597",
+            "category":1
+        },
+        {
+            "id":2,
+            "images":[
+                {
+                    "url":"https://photo-1-baomoi.zadn.vn/w1000_r1/17/04/15/293/22022124/2_190350.jpg"
+                }
+            ],
+            "name":"Nguyễn Tuấn Long",
+            "price": "5.000 VND/KM",
+            "phone":"0967456897",
+            "category":1
+        },
+
+        {
+            "id":3,
+            "images":[
+                {
+                    "url":"https://photo-1-baomoi.zadn.vn/w1000_r1/2019_06_17_180_31119678/a4ffd28bd5cb3c9565da.jpg"
+                }
+            ],
+            "name":"Ngọc Mai",
+            "price": "6.000 VND/KM",
+            "phone":"0965789456",
+            "category":2
+        },
+        {
+            "id":4,
+            "images":[
+                {
+                    "url":"https://quiznhe.com/wp-content/uploads/2018/10/1540717586_6-1505123463109.jpg"
+                }
+            ],
+            "name":"Thu Hiền",
+            "price": "5.000 VND/KM",
+            "phone":"0965617876",
+            "category":2
+        }
+    ],
+    "infos":[
+        {
+            "id":1,
+            "nameApp":"Xe Ôm Thái Nguyên",
+            "Email":"xeomthainguyen@gmail.com",
+            "Phone":"19001800"
+        }
+        
+    ],
+    "chuyenxeom":[
+        {
+            "id":1,
+            "name":"Nữ xe ôm xinh đẹp khiến cộng đồng mạng rần rần tìm kiếm",
+            "images":[
+                {
+                    "url":"https://icdn.dantri.com.vn/thumb_w/640/2017/2-1498008984007.jpg"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name":"Sự thật đằng sau “Hot girl Grab” đang gây bão MXH",
+            "images":[
+                {
+                    "url":"https://quiznhe.com/wp-content/uploads/2018/10/1540717586_6-1505123463109.jpg"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name":"Xế ôm Grab điển trai 'hút hồn', cô gái ngồi sau quả thật khiến các chị em ghen tị!",
+            "images":[
+                {
+                    "url":"https://ss-images.catscdn.vn/wp700/2017/04/14/1222129/grab-06.jpg"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "name":"“NỮ TÀI XẾ GRABBIKE” 18 TUỔI GÂY CHÚ Ý VÌ NGOẠI HÌNH XINH ĐẸP, DỄ THƯƠNG",
+            "images":[
+                {
+                    "url":"https://cdn.pose.com.vn/assets/2019/10/09/4-15705478542771584996608.png"
+                }
+            ]
+        }
+    ],
+    "chitiet":[
+        {
+            "id":1,
+            "noidung":"Những ngày gần đây, hình ảnh về nữ xe ôm xinh đẹp đang được cộng đồng mạng chia sẻ rầm rộ, danh tính cô gái nhanh chóng được tìm ra, đó là bạn Trần Thùy Trang (Nam Định). Trần Thùy Trang (sinh năm 1996), hiện đang làm việc tại Hà Nội. Sau khi hình ảnh của Trang được cộng đồng mạng chia sẻ, cô gái trẻ cho biết bản thân cảm thấy vô cùng bất ngờ, hạnh phúc. Tuy nhiên, Trang bộc bạch cũng cảm thấy khá buồn với những ý kiến hiểu sai mục đích công việc của mình. Chia sẻ với PV Dân trí Trang kể mình mới chạy xe ôm thời công nghệ được hơn 2 tháng nhưng thực sự rất thích thú với công việc này và thậm chí còn xem nó như một niềm đam mê.",
+            "camnang":1
+        },
+        {
+            "id":2,            
+            "noidung":"Hình ảnh nữ Grab bike xinh đẹp thú hút sự chú ý của cộng đồng mạng những ngày qua. Nhiều người tuyên bố sẵn sàng bỏ tiền để được đặt lịch chạy xe của cô nàng nhưng sự thật là “có tiền cũng không được” đi xe ôm cùng cô gái trong mơ ấy. Những ngày qua, cộng đồng mạng rần rần tìm kiếm Facebook của cô gái xuất hiện trong bộ đồng phục Grab. Nhân vật trong bức ảnh xinh xắn với làn da trắng hồng đang tập trung theo dõi điện thoại. Bài đăng với dòng chú thích: “Ở Hà Nội có ai đi Grab không? Xế nữ nhé!”. Ngay khi được đăng tải hình ảnh đã nhận được sự quan tâm rất lớn, hầu hết mọi người đều xuýt xoa khen ngợi “nữ Grab bike” xinh đẹp này. Theo chúng tôi tìm hểu, biết được rằng nữ tài xế xinh đẹp này tên là Lê Thị Thu Hà (sinh năm 1996), hiện đang là người mẫu cho các shop thời trang.",
+            "camnang":2
+        },
+        {
+            "id":3,
+            "noidung":"Anh chàng bỗng dưng nổi tiếng không chỉ vì đẹp trai mà còn đi xe sang để làm xe ôm. Mạng xã hội những ngày qua trở nên “sôi động” hơn bao giờ hết vì một bức hình của anh chàng xe ôm Grab. Vẻ điển trai tựa “soái ca” lãng tử của anh chàng này khiến trái tim bao cô gái rung rinh phần nào. Không những vậy, chàng xế còn dung xe SH để đi làm lại khiến cộng đồng mạng “sôi sục” mau chóng tìm ra “soái ca” Grab ấy. Bức ảnh trên được đăng tải trên Fanpage LGBT Việt Nam đã nhận được hơn 9,8 nghìn lượt like và hơn 600 lượt share. Sau khi bắt tay vào “truy lùng”, cư dân mạng đã tìm ra Facebook cá nhân của chàng Grab điển trai. Anh chàng tên là Trần Xuân Trường đến từ Vinh - Nghệ An. Ngoài tấm ảnh trên, anh chàng cũng sở hữu khá nhiều bức ảnh khác khiến các fan nữ lại thêm “xao xuyến”.", 
+            "camnang":3
+        }
+    ]
+   
+}
